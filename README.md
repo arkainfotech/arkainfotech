@@ -50,7 +50,7 @@
 
 ---
 
-<h2>🚀 &nbsp;Some Tools and Technologies We Use</h2>2>
+<h2>🚀 &nbsp;Some Tools and Technologies We Use</h2>
 
 ### 🖌️ Frontend Technologies
 
